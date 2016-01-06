@@ -40,7 +40,7 @@ public class PlayerMovement : MonoBehaviour
 
         RaycastHit floorHit;
 
-        if (Physics.Raycast(camRay, out floorHit, camRayLenght, floorMask)) ;
+        if (Physics.Raycast(camRay, out floorHit, camRayLenght, floorMask))
         {
             Vector3 playerToMouse = floorHit.point - transform.position;
             playerToMouse.y = 0f;
