@@ -1,4 +1,5 @@
-Projeto em desenvolvimento do tutorial do unity SurvivalShooter 7/10.
+Projeto finalizdo do tutorial do unity SurvivalShooter 7/10.
+obs.: os tutoriais possuem novidades sobre o audio no unity 5
 
 
 
